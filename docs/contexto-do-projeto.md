@@ -1,0 +1,1 @@
+O experimento busca demonstrar como diferentes técnicas de prompting podem apoiar a geração de cenários de testes de integração, contribuindo para a identificação de situações positivas, negativas e excepcionais em sistemas que dependem de APIs externas.
