@@ -10,4 +10,4 @@ Os resultados serão avaliados considerando:
 - Adequação dos resultados esperados às regras de negócio.
 - Facilidade de transformação dos cenários em testes automatizados.
 3. Comparação dos experimentos
-o prompt "few shot" trouxe mais casos enquanto "zero shot" trouxe uma análise mais raza. 
+o prompt "few shot" trouxe mais casos enquanto "zero shot" trouxe uma análise mais simples. o prompt few shot também trouxe solicitação de diferentes cenários considerando mais requisitos e regras de negócio. 
